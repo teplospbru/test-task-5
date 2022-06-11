@@ -4,7 +4,7 @@ const initialState = {
     posts: {},
     skips: null,
     loading: false,
-    query: 'magical',
+    query: 'this',
     error: false,
     queryIsOk: false
 };
